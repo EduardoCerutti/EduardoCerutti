@@ -7,16 +7,12 @@
 - :musical_note: Music Lover
 - :crossed_swords: Do. Or do not. There is no try
 
----
-
 ## Connect with me:
 [<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg' />][instagram]
 [<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg' />][facebook]
 [<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg' />][linkedin]
 [<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/twitch.svg' />][twitch]
 <br/>
-
----
 
 ## Languages and Tools
 <img align='left' alt='' width='30px' src="https://img.icons8.com/plasticine/100/000000/react.png"/>
@@ -34,8 +30,6 @@
 <img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>
 <br/>
 <br/>
-
----
 
 ## Github Stats
 <img align='left' alt="Cerutti's github stats" src='https://github-readme-stats.vercel.app/api?username=TCsTheMechanic&count_private=true&show_icons=true' />
