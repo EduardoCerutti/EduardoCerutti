@@ -33,7 +33,7 @@
 ## Github Stats
 <img align='left' alt="Cerutti's github stats" src='https://github-readme-stats.vercel.app/api?username=TCsTheMechanic&count_private=true&show_icons=true' />
 
-[instagram]: [https://www.instagram.com/ceruttioliveira/
+[instagram]: https://www.instagram.com/ceruttioliveira/
 [facebook]: https://www.facebook.com/eduardo.ceruttioliveira/
 [linkedin]: https://www.linkedin.com/in/eduardo-cerutti-de-oliveira-964b6017b/?locale=en_US
 [twitch]: https://www.twitch.tv/tcsthemechanic_
