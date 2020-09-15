@@ -29,7 +29,6 @@
 <img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/android-os.png"/>
 <img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>
 <br/>
-<br/>
 
 ## Github Stats
 <img align='left' alt="Cerutti's github stats" src='https://github-readme-stats.vercel.app/api?username=TCsTheMechanic&count_private=true&show_icons=true' />
