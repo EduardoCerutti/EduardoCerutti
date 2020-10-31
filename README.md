@@ -34,9 +34,9 @@
 
 NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub
 
-<img align='left' width='380px' alt="Cerutti's github stats" src='https://github-readme-stats.vercel.app/api?username=TCsTheMechanic&count_private=true&show_icons=true' />
+<img align='left' width='400px' alt="Cerutti's github stats" src='https://github-readme-stats.vercel.app/api?username=TCsTheMechanic&count_private=true&show_icons=true' />
 
-<img align='right' width='320px' alt="Cerutti's most used languages on github" src='https://github-readme-stats.vercel.app/api/top-langs/?username=TCsTheMechanic&layout=compact'/>
+<img align='left' width='340px' alt="Cerutti's most used languages on github" src='https://github-readme-stats.vercel.app/api/top-langs/?username=TCsTheMechanic&layout=compact'/>
 
 [instagram]: https://www.instagram.com/ceruttioliveira/
 [facebook]: https://www.facebook.com/eduardo.ceruttioliveira/
