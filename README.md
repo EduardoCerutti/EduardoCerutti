@@ -8,10 +8,10 @@
 - :crossed_swords: Do or do not, there is no try
 
 ## Connect with me:
-[<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg' />][instagram]
-[<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg' />][facebook]
-[<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg' />][linkedin]
-[<img align='left' alt='' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/twitch.svg' />][twitch]
+[<img align='left' alt='' width='22px' src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' />][instagram]
+[<img align='left' alt='' width='22px' src='https://img.icons8.com/cute-clipart/50/000000/facebook.png' />][facebook]
+[<img align='left' alt='' width='22px' src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' />][linkedin]
+[<img align='left' alt='' width='22px' src='https://img.icons8.com/cute-clipart/64/000000/twitch.png' />][twitch]
 <br/>
 
 ## Languages and Tools
