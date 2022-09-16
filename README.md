@@ -1,6 +1,7 @@
-# Hi there, I'm Eduardo Cerutti
+# Hello there, I'm Eduardo Cerutti
 
-## I'm a young guy that loves code and tech!!
+### I'm a young guy that loves all kinds of tech stuff, I'm also a big fan of SOLID and KISS principles, because since the beginning software was made to be SOFT
+
 - :computer: Code Addicted
 - :star: Always looking to improve my skills
 - :video_game: Games Enthusiast
@@ -8,6 +9,7 @@
 - :crossed_swords: Do or do not, there is no try
 
 ## Connect with me:
+
 [<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' />][instagram]
 [<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/50/000000/facebook.png' />][facebook]
 [<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' />][linkedin]
@@ -15,6 +17,7 @@
 <br/>
 
 ## Languages and Tools
+
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/plasticine/100/000000/react.png"/>][react]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>][sass]
@@ -42,7 +45,6 @@ NOTE: Top languages does not indicate skill level, it's a GitHub metric of which
 [facebook]: https://www.facebook.com/eduardo.ceruttioliveira/
 [linkedin]: https://www.linkedin.com/in/eduardo-cerutti-de-oliveira-964b6017b/?locale=en_US
 [twitch]: https://www.twitch.tv/tcsthemechanic_
-
 [react]: https://pt-br.reactjs.org/
 [css]: https://devdocs.io/css/
 [sass]: https://sass-lang.com/
