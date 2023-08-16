@@ -19,8 +19,11 @@
 ## Languages and Tools
 
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/plasticine/100/000000/react.png"/>][react]
+[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=MWiBjkuHeMVq&format=png"/>][next]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>][sass]
+[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png"/>][tailwind]
+[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=54087&format=png"/>][node]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/typescript.png"/>][typescript]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/javascript.png"/>][javascript]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/python.png"/>][python]
@@ -58,3 +61,6 @@ NOTE: Top languages does not indicate skill level, it's a GitHub metric of which
 [linux]: https://www.linux.org/
 [android]: https://www.android.com/
 [git]: https://git-scm.com/
+[next]: https://nextjs.org/
+[tailwind]: https://tailwindcss.com/
+[node]: https://nodejs.org/en
