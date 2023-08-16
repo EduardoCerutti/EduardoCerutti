@@ -9,6 +9,7 @@
 - :crossed_swords: Do or do not, there is no try
 
 Hello there, my name is Eduardo and I am a very fun person, my hobbies are 3D printing, rock'n'roll, I also play four musical instruments, three of which I learned selftaught, my main hobby is travel, I did an exchange program in Portugal during my degree in computer science and I like to add knowledge and experience both with study and with human relations.
+
 I started working as a web developer in 2019 as an intern, after my graduation in 2020 I worked both as a front-end and back-end, since then I've been looking for improvement day after day. I really like to develop easy-tonavigate interfaces with clean, easy-to-maintain code. I am a person who learns very quickly and I like challenges.
 
 ## Connect with me:
