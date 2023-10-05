@@ -26,6 +26,8 @@ I started working as a web developer in 2019 as an intern, after my graduation i
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>][sass]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png"/>][tailwind]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=54087&format=png"/>][node]
+[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/>][nestjs]
+[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png"/>][graphql]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/typescript.png"/>][typescript]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/javascript.png"/>][javascript]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/python.png"/>][python]
@@ -66,3 +68,5 @@ NOTE: Top languages does not indicate skill level, it's a GitHub metric of which
 [next]: https://nextjs.org/
 [tailwind]: https://tailwindcss.com/
 [node]: https://nodejs.org/en
+[graphql]: https://graphql.org/
+[nestjs]: https://nestjs.com/
