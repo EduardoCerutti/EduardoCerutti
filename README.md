@@ -25,16 +25,22 @@ I started working as a web developer in 2019 as an intern, after my graduation i
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>][sass]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png"/>][tailwind]
+</br>
+
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=54087&format=png"/>][node]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/>][nestjs]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png"/>][graphql]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/typescript.png"/>][typescript]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/javascript.png"/>][javascript]
+</br>
+
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/python.png"/>][python]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][java]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>][ruby]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/postgreesql.png"/>][postgres]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
+</br>
+
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/linux.png"/>][linux]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/android-os.png"/>][android]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>][git]
