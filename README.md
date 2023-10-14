@@ -44,6 +44,7 @@ I started working as a web developer in 2019 as an intern, after my graduation i
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/linux.png"/>][linux]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/android-os.png"/>][android]
 [<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>][git]
+[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=22813&format=png"/>][docker]
 <br/>
 
 ## Github Stats
@@ -76,3 +77,4 @@ NOTE: Top languages does not indicate skill level, it's a GitHub metric of which
 [node]: https://nodejs.org/en
 [graphql]: https://graphql.org/
 [nestjs]: https://nestjs.com/
+[docker]: https://www.docker.com/
