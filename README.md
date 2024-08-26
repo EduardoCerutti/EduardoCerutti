@@ -12,40 +12,44 @@ I started working as a web developer in 2019 as an intern, after my graduation i
 
 ## Connect with me:
 
-[<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' />][instagram]
-[<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/50/000000/facebook.png' />][facebook]
-[<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' />][linkedin]
-[<img align='left' alt='' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/twitch.png' />][twitch]
+[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' />][instagram]
+[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/50/000000/facebook.png' />][facebook]
+[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' />][linkedin]
+[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/twitch.png' />][twitch]
 <br/>
 
 ## Languages and Tools
 
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/plasticine/100/000000/react.png"/>][react]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=MWiBjkuHeMVq&format=png"/>][next]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>][sass]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png"/>][tailwind]
+[<img align='left' width='30px' src="https://img.icons8.com/plasticine/100/000000/react.png"/>][react]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=512&id=MWiBjkuHeMVq&format=png"/>][next]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>][sass]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png"/>][tailwind]
 </br>
 
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=512&id=54087&format=png"/>][node]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/>][nestjs]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png"/>][graphql]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/typescript.png"/>][typescript]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/javascript.png"/>][javascript]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=512&id=54087&format=png"/>][node]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/>][nestjs]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png"/>][graphql]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/typescript.png"/>][typescript]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/javascript.png"/>][javascript]
 </br>
 
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/python.png"/>][python]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][java]
-<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=40670&format=png"/>
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>][ruby]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/postgreesql.png"/>][postgres]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/python.png"/>][python]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][java]
+<img align='left' width='30px' src="https://img.icons8.com/?size=48&id=40670&format=png"/>
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>][ruby]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/postgreesql.png"/>][postgres]
 </br>
 
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/linux.png"/>][linux]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/android-os.png"/>][android]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align='left' alt='' width='30px' src="https://img.icons8.com/?size=48&id=22813&format=png"/>][docker]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/linux.png"/>][linux]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/android-os.png"/>][android]
+[<img align='left' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>][git]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=48&id=22813&format=png"/>][docker]
+<br/>
+
+[<img align='left' width='30px' src="https://img.icons8.com/?size=48&id=fAMVO_fuoOuC&format=png"/>][php]
+[<img align='left' width='30px' src="https://img.icons8.com/?size=48&id=UG5EO81XNkPs&format=png"/>][laravel]
 <br/>
 
 ## Github Stats
@@ -79,3 +83,5 @@ I started working as a web developer in 2019 as an intern, after my graduation i
 [graphql]: https://graphql.org/
 [nestjs]: https://nestjs.com/
 [docker]: https://www.docker.com/
+[php]: https://www.php.net/
+[laravel]: https://laravel.com/
