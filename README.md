@@ -52,9 +52,9 @@ I started working as a web developer in 2019 as an intern, after my graduation i
 
 NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub
 
-<img align='left' width='400px' alt="Cerutti's github stats" src='https://github-readme-stats.vercel.app/api?username=TCsTheMechanic&count_private=true&show_icons=true' />
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCerutti&layout=compact&hide_border=true&theme=city_lights&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
-<img align='left' width='340px' alt="Cerutti's most used languages on github" src='https://github-readme-stats.vercel.app/api/top-langs/?username=TCsTheMechanic&layout=compact'/>
+<img height="50%" width="auto" src ="https://github-readme-stats-rongronggg9.vercel.app/api?username=EduardoCerutti&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true&hide=issues,contribs&bg_color=00000000">
 
 [instagram]: https://www.instagram.com/ceruttioliveira/
 [facebook]: https://www.facebook.com/eduardo.ceruttioliveira/
