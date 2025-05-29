@@ -1,21 +1,14 @@
 # Hello there, I'm Eduardo Cerutti
 
-I am a very fun person, my hobbies are 3D printing, online games, rock'n'roll, I also play four musical instruments, three of which I learned selftaught but my main hobby is travel, I did an exchange program in Portugal during my degree in computer science and I like to add knowledge and experience both with study and with human relations.
+As a passionate software engineer, I dive deep into the craft of programming, constantly seeking new challenges and mastering emerging technologies. Guided by SOLID principles, I strive to build robust, flexible, and scalable systems that are as elegant as they are maintainable. As a solutions architect, I bring together design patterns and architectural paradigms—such as Domain-Driven Design, Clean Architecture, and microservices—to deliver sustainable, high-impact software.
 
-I started working as a web developer in 2019 as an intern, after my graduation in 2020 I worked both as a front-end and back-end, since then I've been looking for improvement day after day. I really like to develop easy-tonavigate interfaces with clean, easy-to-maintain code. I am a person who learns very quickly and I like challenges.
+Over the years, I’ve led the full redesign of a core lending platform, introduced modern frontend architecture and saved my current company over $6,000/month through smart automation and infrastructure work. I’ve built CI/CD pipelines, integrated complex financial systems, increased test coverage to over 70%, and scaled platforms to serve 20k+ daily users. These achievements reflect not just code, but strategic thinking and real-world impact.
 
-- :computer: Code Addicted
-- :star: Always looking to improve my skills
-- :video_game: Games Enthusiast
-- :musical_note: Music Lover
-- :crossed_swords: Do or do not, there is no try
+My mission is to design and develop systems that empower users and teams while ensuring long-term technical excellence.
 
 ## Connect with me:
 
-[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' />][instagram]
-[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/50/000000/facebook.png' />][facebook]
 [<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' />][linkedin]
-[<img align='left' width='40px' src='https://img.icons8.com/cute-clipart/64/000000/twitch.png' />][twitch]
 <br/>
 
 ## Languages and Tools
@@ -60,10 +53,7 @@ I started working as a web developer in 2019 as an intern, after my graduation i
   <img height="50%" width="auto" src ="https://github-readme-stats-rongronggg9.vercel.app/api?username=EduardoCerutti&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true&hide=issues,contribs&bg_color=00000000">
 </div>
 
-[instagram]: https://www.instagram.com/ceruttioliveira/
-[facebook]: https://www.facebook.com/eduardo.ceruttioliveira/
 [linkedin]: https://www.linkedin.com/in/eduardo-cerutti-de-oliveira-964b6017b/?locale=en_US
-[twitch]: https://www.twitch.tv/tcsthemechanic_
 [react]: https://pt-br.reactjs.org/
 [css]: https://devdocs.io/css/
 [sass]: https://sass-lang.com/
