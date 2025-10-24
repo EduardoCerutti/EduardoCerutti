@@ -53,7 +53,7 @@ My mission is to design and develop systems that empower users and teams while e
   <img height="50%" width="auto" src ="https://github-readme-stats-rongronggg9.vercel.app/api?username=EduardoCerutti&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true&hide=issues,contribs&bg_color=00000000">
 </div>
 
-[linkedin]: https://www.linkedin.com/in/eduardo-cerutti-de-oliveira-964b6017b/?locale=en_US
+[linkedin]: https://www.linkedin.com/in/eduardo-cerutti/
 [react]: https://pt-br.reactjs.org/
 [css]: https://devdocs.io/css/
 [sass]: https://sass-lang.com/
